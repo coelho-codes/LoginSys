@@ -1,3 +1,4 @@
+//This class will represent the user to the system
 class User {
     String username;
     String email;
