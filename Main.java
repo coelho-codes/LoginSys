@@ -6,7 +6,7 @@ class Main {
         Scanner scanner = new Scanner(System.in);
         String input;
 
-        System.out.println("Are you already registered in our system(y or n)?\n>>>");
+        System.out.println("Are you already registered in our system(y or n)?\n>>> ");
 
         for(;;) {
             
